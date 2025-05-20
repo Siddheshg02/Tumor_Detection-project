@@ -1,14 +1,14 @@
 # Tumor_Detection-project
-📌 Project Overview
+## 📌 Project Overview
 This project aims to predict tumor malignancy (benign vs. malignant) using a Random Forest Classifier on the Wisconsin Breast Cancer Dataset. The workflow includes data cleaning, exploratory analysis, feature selection, and model evaluation.
 
-Key Skills Demonstrated:
+### Key Skills Demonstrated:
 ✔ Data Preprocessing
 ✔ Feature Importance Analysis
 ✔ Machine Learning (Random Forest)
 ✔ Visualization with Matplotlib/Seaborn
 
-🔍 Methodology
+### 🔍 Methodology
 1. Data Cleaning
 Removed irrelevant columns (id).
 Checked for missing values (none found).
@@ -31,7 +31,7 @@ Evaluated using accuracy, confusion matrix, and classification report.
 5. Feature Importance
 Identified top 10 influential features (e.g., concave points_worst, perimeter_worst).
 
-## Key Findings
+### Key Findings
 Data Quality: No missing values; only id column dropped.
 
 Class Balance: 
